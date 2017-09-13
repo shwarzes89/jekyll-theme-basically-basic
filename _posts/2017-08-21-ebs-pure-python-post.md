@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deploing a pure python with Elastic beans talk
+title: Deploying a pure python with Elastic beans talk
 description: "Sample post with a background image CSS override."
 tags: [aws, python]
 ---
