@@ -2,7 +2,7 @@
 layout: post
 title: Deploying a pure python with Elastic beans talk
 description: "Sample post with a background image CSS override."
-tags: [aws, python]
+tags: [aws, elasticbeanstalk, python]
 ---
 
 Elastic beans talk is a suitable service for distributing a application or docker container.
@@ -69,10 +69,10 @@ cron:
     schedule: "0 18 * * *"
 ```
 
-## 6. Scheduling a task
+## 7. Wrapping a python code
 
 Wrapping a task file with python application. It will be executed by WSGI with url.
-This code reference the sample code of Elastic beans talk.
+This code refers to the sample pure python code of Elastic beans talk.
 
 ```python
 import logging
